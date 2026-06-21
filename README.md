@@ -81,7 +81,7 @@ Spend and tenure-related features dominate — the top 4 alone account for rough
 .
 ├── customer_churn_prediction.ipynb   # Full analysis notebook (EDA → modeling → insights)
 └── README.md
-└── Churn_Dashboard.html
+└── index.html
 └── archive.zip
 ```
 
