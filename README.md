@@ -81,10 +81,13 @@ Spend and tenure-related features dominate — the top 4 alone account for rough
 .
 ├── customer_churn_prediction.ipynb   # Full analysis notebook (EDA → modeling → insights)
 └── README.md
+└── html
+└── Archive
 ```
 
 ## Data Source
 
 [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — 7,043 customer records with demographic, account, and service-usage attributes.
 
-> Note: replace the dataset link above if you used a different source, and update it if the raw CSV is included in this repo.
+## Author
+WENHAO LI
