@@ -1,3 +1,7 @@
+## Live Demo
+
+View the interactive dashboard here: https://haodata.github.io/customer-churn-prediction-ml/
+
 # Customer Churn Prediction
 
 A machine learning project that predicts customer churn for a telecom provider, using the Telco Customer Churn dataset. The pipeline covers EDA, preprocessing, feature engineering, class-imbalance handling with SMOTE, and a comparison of three classification models, with an emphasis on **Recall** as the priority business metric.
